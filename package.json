@@ -1,0 +1,25 @@
+{
+    "name": "tpl-to-vdom-loader",
+    "version": "0.0.6",
+    "description": "This loader compile your underscore templates to virtual-dom hyperscript",
+    "main": "index.js",
+    "dependencies": {
+        "html2hscript": "1.*",
+        "underscore": "1.8.*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/savelichalex/tpl-loader.git"
+    },
+    "keywords": [
+        "webpack",
+        "loader",
+        "template"
+    ],
+    "author": "Alexey Savelyev",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/savelichalex/tpl-loader/issues"
+    },
+    "homepage": "https://github.com/savelichalex/tpl-loader#readme"
+}
